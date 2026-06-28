@@ -1,6 +1,6 @@
 package com.etechniketan.dsa.basics;
 
-public class AverageOfTwoNumbers {
+public class _1_AverageOfTwoNumbers {
 
     public static void main(String[] args) {
         int num1 = 10;
